@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<img src="[https://media.giphy.com/media/hTC5cAFPPFBAzJmg7w/giphy.gif](https://media.giphy.com/media/nCVVpakhBTwBi/giphy.gif)" />
+<img src="(https://media.giphy.com/media/nCVVpakhBTwBi/giphy.gif)" />
 </div>
