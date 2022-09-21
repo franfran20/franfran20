@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<img src="(https://media.giphy.com/media/nCVVpakhBTwBi/giphy.gif)" />
-</div>
+WHaT BriNGs YoU HeRE tODaY??
