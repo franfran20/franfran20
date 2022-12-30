@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-WHaT BriNGs YoU HeRE tODaY??
+Smart Contract Developer.
+Mordecai and rigby == Finn and Jake
