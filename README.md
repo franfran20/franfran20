@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Smart Contract Developer.
-Mordecai and rigby == Finn and Jake
+Smart Contract Developer. Anime Geek.
